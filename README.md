@@ -3,4 +3,4 @@ This project is about investigating a dataset that contains information of 10000
 1. Which genres is most popular in movie making ?
 2. Which Genre has more popularity within audience ?
 3. Are movie releses incresing with time?
-4. Visualisation of yearly revenue with time
+4. Visualisation of yearly revenue with time.
